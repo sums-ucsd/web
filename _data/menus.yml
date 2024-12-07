@@ -1,9 +1,9 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Past Talks"
+    url: "/past-talks/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Board Members"
+    url: "/board-members/"
     weight: 3
   - name: "About"
     url: "/about/"

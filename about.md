@@ -2,86 +2,41 @@
 title: About
 layout: page
 description: About
+intro_image: "images/illustrations/about.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+<a href="https://discord.gg/XVVeGHXGTt" target = "_blank" class="button" >Join Our Discord Server</a>
 
-# Objectives
+<a href="http://eepurl.com/cJMmqf" target = "_blank" class="button" >Subscribe to Our Newsletter</a>
 
-Financial accounting and financial reporting are often used as synonyms.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
 
-## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Info
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+* SUMS is holding its weekly board meetings every **Monday from 6:00-7:00PM** in **APM 6402** 
+  * **If you wish to become a member please remember to sign in to events and meetings** To learn more about becoming a member please click [here](./get-involved.md).
+* Our events and activities are publicized on our newsletter, on Discord, and on flyers across campus.
+  * **Information, videos, and various resources can also be found for some of our [past events](./past-events.html).**
+* Links to our social media are located at the top-right. Our email is sums (at) ucsd (dot) edu.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Membership
 
-## Faithful Representation
+To become a SUMS member, you must meet the following requirements: 
+* Be a registered UCSD undergraduate student(of any major)
+* Attend and **sign-in to** at least 3 SUMS **events** and 3 SUMS **board meetings** within 90 days 
+* Submit a membership application **after** completing all the above requirements <br />
+* For more information click [here](./get-involved.md). 
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+<a class="button" href="https://forms.gle/NTt7DFMNYkBJQx4y5" target = "_blank">Board Meeting Sign-In</a>
+<a class="button" href="https://forms.gle/zRqwfVnr4QXME5Xk6" target = "_blank">Event Sign-In</a>
+<a class="button" href="https://forms.gle/A1n3Bi3x1rN3pCHc7" target="_blank">Submit Membership Application</a>
 
-## Enhancing Qualitative Characteristics
+## Membership Check
+To check if you meet the membership requirements, please fill in your email below. **Please remember to remove your email after checking**
 
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+<iframe src="https://docs.google.com/spreadsheets/d/19-j42XJFwiYh4QqfMx8L-qHsXiUzeaa6eCvdzW-0MAE/edit?usp=sharing"  name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="500px" width="110%" allowfullscreen></iframe>

@@ -1,12 +1,13 @@
 ---
-title: Team
+title: Board Members
 layout: teams
-description: Team
-permalink: "/team/"
+description: Board Members
+permalink: "/board-members/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet Our Board Members
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+If you have any general inquiries, please send us an email at sums (at) ucsd (dot) edu. 
+
