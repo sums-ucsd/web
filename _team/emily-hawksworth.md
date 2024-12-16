@@ -1,7 +1,7 @@
 ---
 title: "Emily Hawksworth"
 date: 2018-12-20T13:44:23+10:00
-image: "images/team/original/RyanBatubara.jpeg"
+image: "images/team/original/EmilyHawksworth.jpeg"
 jobtitle: "Secretary"
 promoted: "true"
 weight: 4

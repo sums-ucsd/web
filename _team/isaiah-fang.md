@@ -1,7 +1,7 @@
 ---
 title: "Isaiah Fang"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/originals/IsaiahFang.JPEG"
+image: "images/team/original/IsaiahFang.jpeg"
 jobtitle: "Treasurer"
 promoted: true
 weight: 5

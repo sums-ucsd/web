@@ -1,7 +1,7 @@
 ---
 title: "Mohit Dutta"
 date: 2018-12-20T13:44:55+10:00
-image: "images/team/original/MohitDutta.jpeg"
+image: "images/team/original/MohitDutta.jpg"
 jobtitle: "Workshops Chair"
 promoted: "true"
 weight: 10
